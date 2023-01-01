@@ -1,0 +1,1 @@
+A high-resolution version of the profile picture for this organisation can be found in the private repository [Apollo-1845-logo](https://github.com/apollo-1845/Apollo-1845-logo).
