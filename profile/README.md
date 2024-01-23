@@ -6,7 +6,6 @@ We're a group of teams entering the [Astro Pi: Mission Space Lab](https://astro-
 ## Current teams
 * Asteroid
 * Oopsies
-* Phobos
 * Solaris
 * Stardust
 
