@@ -8,7 +8,7 @@ We're a group of teams entering the [Astro Pi: Mission Space Lab](https://astro-
 
 ## Previous teams
 __` Click on the team name to go to their main repository. Other repositories connected to that team are listed in brackets. `__
-## 2023-24
+### 2023-24
 This year in Astro Pi all teams needed to measure the speed of the ISS. Our code was private during development but the available online resources pushed us all towards a Computer Vision approach.
 * 🪨 [Asteroid](https://github.com/apollo-1845/2023-Asteroid)
 * 🤭 [Oopsies](https://github.com/apollo-1845/2023-Oopsies)
