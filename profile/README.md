@@ -10,10 +10,11 @@ We're a group of teams entering the [Astro Pi: Mission Space Lab](https://astro-
 __` Click on the team name to go to their main repository. Other repositories connected to that team are listed in brackets. `__
 ### 2023-24
 This year in Astro Pi all teams needed to measure the speed of the ISS. Our code was private during development but the available online resources pushed us all towards a Computer Vision approach.
-* 🪨 [Asteroid](https://github.com/apollo-1845/2023-Asteroid)
-* 🤭 [Oopsies](https://github.com/apollo-1845/2023-Oopsies)
-* 🌅 [Solaris](https://github.com/apollo-1845/2023-Solaris)
-* 🌃 [Stardust](https://github.com/apollo-1845/2023-Stardust) _(did not finish code in time)_
+> These repositories are currently private because the task is exactly the same for the current 2024-25 season, and we want to prevent cheating.
+* 🪨 <!--[-->Asteroid<!--](https://github.com/apollo-1845/2023-Asteroid)-->
+* 🤭 <!--[-->Oopsies<!--](https://github.com/apollo-1845/2023-Oopsies)-->
+* 🌅 <!--[-->Solaris<!--](https://github.com/apollo-1845/2023-Solaris)-->
+* 🌃 <!--[-->Stardust<!--](https://github.com/apollo-1845/2023-Stardust)--> _(did not finish code in time)_
 ### 2022-23
 This year Astro Pi was more creative, and the format allowed all teams to come up with their own experiment ideas. 📰 The reports show the range of results we got!
 * 🌇 [Asteria](https://github.com/apollo-1845/2022-Asteria) ([Post processing](https://github.com/apollo-1845/2022-Asteria/tree/master/Post-processing)) ([📰 Report](https://docs.google.com/document/d/1H2AO3EwDTa2DcPpvBAQ-2tuibj8rzami/edit?usp=sharing&ouid=101868900073675447190&rtpof=true&sd=true)) - Calculating plant health (NDVI) on Earth, comparing it to GDP, and looking at the effects of urbanisation on it.
